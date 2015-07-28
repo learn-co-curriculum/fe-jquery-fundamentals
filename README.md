@@ -1,9 +1,4 @@
----
-language: none
-tags: javascript, libraries, jquery, beginner, dom manipulation
-type: lecture
-resources: 0
----
+
 
 ## Getting Started With jQuery ~ 54min
 
