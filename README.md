@@ -7,3 +7,4 @@ These videos are also available as a single [continuous playlist from the link h
 <iframe width="100%" height="720" src="//www.youtube.com/embed/P20_xs-vd5s?list=PLj148bJp5wix9lG_TR8qwSBUZLaCj7MEv" frameborder="0" allowfullscreen></iframe>
 
 [slides](https://docs.google.com/presentation/d/1fmBG0vUTzwVdk-wgTpE0xmnC3o-CUby_G0h6cQYUxyo/edit?usp=sharing)
+<a href='https://learn.co/lessons/fe-jquery-fundamentals' data-visibility='hidden'>View this lesson on Learn.co</a>
